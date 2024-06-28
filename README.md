@@ -36,6 +36,9 @@ Answer the following questions based on your understanding of Python programming
 
 10. File I/O:
     - How do you read from and write to files in Python? Write a script that reads the content of a file and prints it to the console, and another script that writes a list of strings to a file.
+    
+below is the link to the answers
+https://docs.google.com/document/d/1EqI9VrDXvVphz_NZXGC4wyPZ45SGlZdm7nPzLMOd0To/edit?usp=sharing
 
 # Submission Guidelines:
 - Your answers should be well-structured, concise, and to the point.
